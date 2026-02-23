@@ -1,0 +1,9 @@
+{
+	"name": "projectcicd-dev-adf1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c49e12a7-807a-4fae-99cb-02cc22b47113",
+		"tenantId": "fd3f4ceb-521c-4f73-9c4d-cd0c7bd84074"
+	}
+}
